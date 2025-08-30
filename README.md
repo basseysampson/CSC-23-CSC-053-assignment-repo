@@ -21,7 +21,7 @@ It includes:
 
  2. Database Setup
 1. Open phpMyAdmin ([http://localhost/phpmyadmin](http://localhost/phpmyadmin))  
-2. Create a database called `student_db_friend` (or any name you choose).  
+2. Create a database called `student_db_sammy` (or any name you choose).  
 3. Import the file `student_db.sql` located in the project folder.  
    - This will create the `student_records` table automatically.  
 
